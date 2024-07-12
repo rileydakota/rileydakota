@@ -2,8 +2,8 @@
 
  ![alt text](img/headshot.jpg)
 
-[![Dakotas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileydakota)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
-
+[![Dakotas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileydakota&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileydakota&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ### I am a Security Engineer, Consultant, and Leader with skills in Cloud Security, Application Security, Detection Engineering, and Automation. 
 
