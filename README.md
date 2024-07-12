@@ -69,6 +69,8 @@ In this blog, I combined my love of static code analysis and infrastructure-as-c
 
 **[Panther-Analysis](https://github.com/panther-labs/panther-analysis)** - added new detection rules for [CodeBuild Public Projects on AWS](https://github.com/panther-labs/panther-analysis/pull/302)
 
+**[Matano](https://github.com/matanolabs/matano/pull/162)** - added a managed enrichment table for the Cybersecurity and Infrastructure Agency Known Exploited Vulnerabilities (AKA CISA KEV), allowing 
+
 CfnSweeper - A CLI tool I built for finding AWS resources unmanaged by AWS Cloudformation, built to help engineers clean up AWS resources often left behind from CDK constructs that have removalPolicies that retain the resource by default. 
 
 
