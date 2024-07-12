@@ -18,27 +18,28 @@ While I enjoy going deep on technical problems, I love being able to step back a
 ## Speaking
 
 ### CloudNativeSecurityCon 2024: Detection Engineering in Kubernetes Environments
-![alt text](img/cncs.png) \
-Youtube - coming soon \
+
 [Slides](https://github.com/rileydakota/cncs-2024-k8s-det-eng-talk/blob/main/cncs-slides.pdf)
 
 ### AWS Community Day Midwest: Exploring Amazon Lake
-![alt text](img/aws.PNG)
+
 [YouTube](https://www.youtube.com/watch?v=Kzwt6AdCBrM) \
 [Slides](https://github.com/rileydakota/seclake-exploration/blob/main/AWS%20Community%20Day%20Midwest%20-%20SecLake.pdf)
 
 ### SANS CloudSecNext 2023: Detective Controls in Kubernetes Environments
-![alt text](img/cloudsecnext.jpg)\
+
 [Youtube](https://www.youtube.com/watch?v=Old-6aKmzrg)
 
 ### The Security Engineers Guide To Infrastructure-As-Code
-![alt text](img/NKU.png)\
+
 [Slides](https://github.com/rileydakota/nku-cyber-2021-iac-security/blob/main/ppt/iac_security_ppt.pdf)
 
 
 # Blogs
 
-### Exploring the GitHub Advisory Database for fun and (no) profilt
+### Exploring the GitHub Advisory Database for fun and (no) profit
+### Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail
+### 
 
 ### 
 
