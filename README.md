@@ -14,32 +14,34 @@ While I enjoy going deep on technical problems, I love being able to step back a
 
 
 
-
 ## Speaking
 
-### CloudNativeSecurityCon 2024: Detection Engineering in Kubernetes Environments
+CloudNativeSecurityCon 2024: Detection Engineering in Kubernetes Environments
 
 [Slides](https://github.com/rileydakota/cncs-2024-k8s-det-eng-talk/blob/main/cncs-slides.pdf)
 
-### AWS Community Day Midwest: Exploring Amazon Lake
+AWS Community Day Midwest: Exploring Amazon Lake
 
-[YouTube](https://www.youtube.com/watch?v=Kzwt6AdCBrM) \
-[Slides](https://github.com/rileydakota/seclake-exploration/blob/main/AWS%20Community%20Day%20Midwest%20-%20SecLake.pdf)
+:video_camera: [YouTube](https://www.youtube.com/watch?v=Kzwt6AdCBrM) \
+:chart_with_upwards_trend: [Slides](https://github.com/rileydakota/seclake-exploration/blob/main/AWS%20Community%20Day%20Midwest%20-%20SecLake.pdf) \
+:notebook: [Jupyter Notebook](https://github.com/rileydakota/seclake-exploration/blob/main/seclake_cloudtrail_investigation.ipynb)
 
-### SANS CloudSecNext 2023: Detective Controls in Kubernetes Environments
+SANS CloudSecNext 2023: Detective Controls in Kubernetes Environments
 
-[Youtube](https://www.youtube.com/watch?v=Old-6aKmzrg)
+:video_camera: [Youtube](https://www.youtube.com/watch?v=Old-6aKmzrg)
 
-### The Security Engineers Guide To Infrastructure-As-Code
+The Security Engineers Guide To Infrastructure-As-Code
 
-[Slides](https://github.com/rileydakota/nku-cyber-2021-iac-security/blob/main/ppt/iac_security_ppt.pdf)
+:chart_with_upwards_trend: [Slides](https://github.com/rileydakota/nku-cyber-2021-iac-security/blob/main/ppt/iac_security_ppt.pdf)
 
 
 # Blogs
 
-### Exploring the GitHub Advisory Database for fun and (no) profit
-### Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail
-### 
+[Exploring the GitHub Advisory Database for fun and (no) profit](https://blog.aquia.us/blog/2024-02-27-gh-advisory-db/)
+[Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail](https://dev.to/aws-builders/tactical-cloud-audit-log-analysis-with-duckdb-aws-cloudtrail-2amk)
+[Aquia Open Source Contributions - Adding a CISA KEV Enrichment Table to Matano](https://blog.aquia.us/blog/2023-07-31-matano-cisa-kev/)
+https://blog.aquia.us/blog/2023-01-01-secrets-manager-lambda-extension/[Threat Detection on EKS - Comparing Falco and GuardDuty for EKS Protection](https://blog.aquia.us/blog/2022-05-06-guardduty-falco/)
+[Using Semgrep to find security issues and misconfigurations in AWS Cloud Development Kit projuects](https://blog.aquia.us/blog/2022-02-18-semgrep-cdk/)
 
 ### 
 
