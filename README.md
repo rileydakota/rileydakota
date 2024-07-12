@@ -1,13 +1,10 @@
 ## Welcome to Dakota Riley's GitHub Portfolio page!
 
-Table of Contents
-=================
-
-
 * [Intro](#i-am-a-security-engineer-consultant-and-leader-with-skills-in-cloud-security-application-security-detection-engineering-and-automation)
 * [Speaking](#speaking)
 * [Blogs](#blogs)
 * [Contributions](#contributions)
+* [Other Fun Stuff](#Other)
 
 ### I am a Security Engineer, Consultant, and Leader with skills in Cloud Security, Application Security, Detection Engineering, and Automation. 
 
