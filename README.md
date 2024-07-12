@@ -1,5 +1,4 @@
 ## Welcome to Dakota Riley's GitHub Portfolio page!
-
 * [Intro](#i-am-a-security-engineer-consultant-and-leader-with-skills-in-cloud-security-application-security-detection-engineering-and-automation)
 * [Speaking](#speaking)
 * [Blogs](#blogs)
@@ -15,12 +14,6 @@ I have worked at startups, large enterprises, FAANG, and the Federal Government 
 I prefer environments that reward creative thinking, strong ownership of problems, and data driven decision making. 
 
 While I enjoy going deep on technical problems, I love being able to step back and solve problems at the source vs bandaid fixes.
-
-[![Dakotas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileydakota&show_icons=true&theme=radical))](https://github.com/anuraghazra/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rileydakota&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
 
 
 ## Speaking
@@ -46,16 +39,37 @@ While I enjoy going deep on technical problems, I love being able to step back a
 
 
 # Blogs
-[Exploring the GitHub Advisory Database for fun and (no) profit](https://blog.aquia.us/blog/2024-02-27-gh-advisory-db/) \
-[Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail](https://dev.to/aws-builders/tactical-cloud-audit-log-analysis-with-duckdb-aws-cloudtrail-2amk) \
-[Aquia Open Source Contributions - Adding a CISA KEV Enrichment Table to Matano](https://blog.aquia.us/blog/2023-07-31-matano-cisa-kev/) \
-[Taking the Secrets Manager Lambda Extension for a spin](https://blog.aquia.us/blog/2023-01-01-secrets-manager-lambda-extension) \
-[Threat Detection on EKS - Comparing Falco and GuardDuty for EKS Protection](https://blog.aquia.us/blog/2022-05-06-guardduty-falco/) \
-[Using Semgrep to find security issues and misconfigurations in AWS Cloud Development Kit projuects](https://blog.aquia.us/blog/2022-02-18-semgrep-cdk/)
+**[Exploring the GitHub Advisory Database for fun and (no) profit](https://blog.aquia.us/blog/2024-02-27-gh-advisory-db/)** 
 
-### 
+In this blog, I downloaded the entire GitHub Advisory Database, and loaded it into Pandas to look for trends across Open Source Vulnerabilities.
 
-# Contributions
+**[Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail](https://dev.to/aws-builders/tactical-cloud-audit-log-analysis-with-duckdb-aws-cloudtrail-2amk)** \
+
+In this blog, I cover how to load, parse, and interact with AWS CloudTrail logs utilizing DuckDB, a tool that allows you to locally query and interact with larger than memory datasets that still fit on a single device. Its a great tool for needing to query when you don't have a SIEM available, and is faster than Athena with certain data sizes.
+
+**[Taking the Secrets Manager Lambda Extension for a spin](https://blog.aquia.us/blog/2023-01-01-secrets-manager-lambda-extension)** 
+
+This blog, I use the AWS Secrets Manager Lambda extension in different Lambda functions, and benchmark how it impacts performance compared to other methods. 
+
+**[Threat Detection on EKS - Comparing Falco and GuardDuty for EKS Protection](https://blog.aquia.us/blog/2022-05-06-guardduty-falco/)** 
+
+I partnered with co-worker and friend Dustin Whited [@dgwhited] to compare Falco and EKS GuardDuty as options for threat detection in EKS environments. 
+
+**[Using Semgrep to find security issues and misconfigurations in AWS Cloud Development Kit projects](https://blog.aquia.us/blog/2022-02-18-semgrep-cdk/)** \
+
+In this blog, I combined my love of static code analysis and infrastructure-as-code to find problems in CDK projects in the actual CDK code itself. 
+
+# Contributions and OSS
+
+**[Stratus Red Team](https://github.com/DataDog/stratus-red-team/pull/160/commits/59bd6e4211dca2a82107a8b64c169bd27caf6921)** - added GCP Support and Initial GCP Technique
+
+**[Peirates](https://github.com/inguardians/peirates/pull/55)** - added support for detecting AWS as a Cloud Provider when IMDSv2 is in use
+
+**[Semgrep](https://github.com/semgrep/semgrep-rules/pull/1629)** - added rules for the static analysis of AWS Cloud Development Kit (CDK) projects
+
+**[Panther-Analysis](https://github.com/panther-labs/panther-analysis)** - added new detection rules for [CodeBuild Public Projects on AWS](https://github.com/panther-labs/panther-analysis/pull/302)
+
+CfnSweeper - A CLI tool I built for finding AWS resources unmanaged by AWS Cloudformation, built to help engineers clean up AWS resources often left behind from CDK constructs that have removalPolicies that retain the resource by default. 
 
 
 
@@ -74,3 +88,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![rileydakota's Stats](https://github-readme-stats.vercel.app/api?username=rileydakota&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![rileydakota's Streak](https://github-readme-streak-stats.herokuapp.com/?user=rileydakota&theme=vue-dark&hide_border=true)
+![rileydakota's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rileydakota&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
