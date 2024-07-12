@@ -2,6 +2,9 @@
 
  ![alt text](img/headshot.jpg)
 
+[![Dakotas's GitHub stats](https://github-readme-stats.vercel.app/api?username=rileydakota)](https://github.com/anuraghazra/github-readme-stats?theme=radical)
+
+
 ### I am a Security Engineer, Consultant, and Leader with skills in Cloud Security, Application Security, Detection Engineering, and Automation. 
 
 I have worked at startups, large enterprises, FAANG, and the Federal Government helping customers solve security engineering challenges, as both a consultant, and owner. I enjoy getting to solve large scale challenges with both code and strategy, and enabling engineering teams to move fast without having to worry about security. I deeply care about making the right thing as easy as possible, and the end user experience of security.
@@ -10,7 +13,7 @@ I prefer environments that reward creative thinking, strong ownership of problem
 
 While I enjoy going deep on technical problems, I love being able to step back and solve problems at the source vs bandaid fixes.
 
-## Tech Stacks I work with
+
 
 
 
