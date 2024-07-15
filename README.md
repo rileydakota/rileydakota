@@ -7,9 +7,11 @@
 
 ### I am a Security Engineer, Consultant, and Leader with skills in Cloud Security, Application Security, Detection Engineering, and Automation. 
 
+##### "I just want to do cool cloud security stuff with my friends" - me
+
 ![alt text](img/headshot.jpg) 
 
-I have worked at startups, large enterprises, FAANG, and the Federal Government helping customers solve security engineering challenges, as both a consultant, and owner. I enjoy getting to solve large scale challenges with both code and strategy, and enabling engineering teams to move fast without having to worry about security. I deeply care about making the right thing as easy as possible, and the end user experience of security.
+I have worked at startups, large enterprises, FAANG, and the Federal Government, helping customers solve security engineering challenges, as both a consultant, and owner. I enjoy getting to solve large scale challenges with both code and strategy, and enabling engineering teams to move fast without having to worry about security. I deeply care about making the right thing as easy as possible, and the end user experience of security.
 
 I prefer environments that reward creative thinking, strong ownership of problems, and data driven decision making. 
 
@@ -69,7 +71,7 @@ In this blog, I combined my love of static code analysis and infrastructure-as-c
 
 **[Panther-Analysis](https://github.com/panther-labs/panther-analysis)** - added new detection rules for [CodeBuild Public Projects on AWS](https://github.com/panther-labs/panther-analysis/pull/302)
 
-**[Matano](https://github.com/matanolabs/matano/pull/162)** - added a managed enrichment table for the Cybersecurity and Infrastructure Agency Known Exploited Vulnerabilities (AKA CISA KEV), allowing 
+**[Matano](https://github.com/matanolabs/matano/pull/162)** - added a managed enrichment table for the Cybersecurity and Infrastructure Agency Known Exploited Vulnerabilities (AKA CISA KEV), allowing users to help enrich/prioritize vulnerability finding data sources with KEV status. 
 
 CfnSweeper - A CLI tool I built for finding AWS resources unmanaged by AWS Cloudformation, built to help engineers clean up AWS resources often left behind from CDK constructs that have removalPolicies that retain the resource by default. 
 
