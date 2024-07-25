@@ -57,23 +57,23 @@ This blog, I use the AWS Secrets Manager Lambda extension in different Lambda fu
 
 I partnered with co-worker and friend Dustin Whited [@dgwhited] to compare Falco and EKS GuardDuty as options for threat detection in EKS environments. 
 
-**[Using Semgrep to find security issues and misconfigurations in AWS Cloud Development Kit projects](https://blog.aquia.us/blog/2022-02-18-semgrep-cdk/)** \
+**[Using Semgrep to find security issues and misconfigurations in AWS Cloud Development Kit projects](https://blog.aquia.us/blog/2022-02-18-semgrep-cdk/)** 
 
 In this blog, I combined my love of static code analysis and infrastructure-as-code to find problems in CDK projects in the actual CDK code itself. 
 
 # Contributions and OSS
 
-**[Stratus Red Team](https://github.com/DataDog/stratus-red-team/pull/160/commits/59bd6e4211dca2a82107a8b64c169bd27caf6921)** - added GCP Support and Initial GCP Technique
+**[Stratus Red Team](https://github.com/DataDog/stratus-red-team/pull/160/commits/59bd6e4211dca2a82107a8b64c169bd27caf6921)** - added GCP Support and Initial GCP Technique, added an [EKS specific technique](https://github.com/DataDog/stratus-red-team/pull/542) that eventually made it into the codebase as well 
 
 **[Peirates](https://github.com/inguardians/peirates/pull/55)** - added support for detecting AWS as a Cloud Provider when IMDSv2 is in use
 
 **[Semgrep](https://github.com/semgrep/semgrep-rules/pull/1629)** - added rules for the static analysis of AWS Cloud Development Kit (CDK) projects
 
-**[Panther-Analysis](https://github.com/panther-labs/panther-analysis)** - added new detection rules for [CodeBuild Public Projects on AWS](https://github.com/panther-labs/panther-analysis/pull/302)
+**[Panther-Analysis](https://github.com/panther-labs/panther-analysis)** - added new detection rules for [CodeBuild Public Projects on AWS](https://github.com/panther-labs/panther-analysis/pull/302) and some [initial K8s rules (WIP)](https://github.com/panther-labs/panther-analysis/pull/1287)
 
 **[Matano](https://github.com/matanolabs/matano/pull/162)** - added a managed enrichment table for the Cybersecurity and Infrastructure Agency Known Exploited Vulnerabilities (AKA CISA KEV), allowing users to help enrich/prioritize vulnerability finding data sources with KEV status. 
 
-CfnSweeper - A CLI tool I built for finding AWS resources unmanaged by AWS Cloudformation, built to help engineers clean up AWS resources often left behind from CDK constructs that have removalPolicies that retain the resource by default. 
+**[CfnSweeper](https://github.com/rileydakota/cfn-sweeper)** - A CLI tool I built for finding AWS resources unmanaged by AWS Cloudformation, built to help engineers clean up AWS resources often left behind from CDK constructs that have removalPolicies that retain the resource by default. 
 
 
 
