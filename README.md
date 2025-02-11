@@ -20,9 +20,13 @@ While I enjoy going deep on technical problems, I love being able to step back a
 
 ## Speaking
 
+**SANS CloudSecNext 2024: Connecting the broken links: How to find and fix security gaps in your cloud infrastructure**
+
+:video_camera: [YouTube](https://www.youtube.com/watch?v=9xLxUwMcQ1E)
+
 **CloudNativeSecurityCon 2024: Detection Engineering in Kubernetes Environments**
 
-
+:video_camera: [YouTube](https://www.youtube.com/watch?v=kmgOAeE_flM)
 :chart_with_upwards_trend: [Slides](https://github.com/rileydakota/cncs-2024-k8s-det-eng-talk/blob/main/cncs-slides.pdf)
 
 **AWS Community Day Midwest: Exploring Amazon Lake**
@@ -45,7 +49,7 @@ While I enjoy going deep on technical problems, I love being able to step back a
 
 In this blog, I downloaded the entire GitHub Advisory Database, and loaded it into Pandas to look for trends across Open Source Vulnerabilities.
 
-**[Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail](https://dev.to/aws-builders/tactical-cloud-audit-log-analysis-with-duckdb-aws-cloudtrail-2amk)** \
+**[Tactical Cloud Audit Log Analysis with DuckDB - AWS CloudTrail](https://dev.to/aws-builders/tactical-cloud-audit-log-analysis-with-duckdb-aws-cloudtrail-2amk)**
 
 In this blog, I cover how to load, parse, and interact with AWS CloudTrail logs utilizing DuckDB, a tool that allows you to locally query and interact with larger than memory datasets that still fit on a single device. Its a great tool for needing to query when you don't have a SIEM available, and is faster than Athena with certain data sizes.
 
